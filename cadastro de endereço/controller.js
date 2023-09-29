@@ -9,3 +9,7 @@ const  limparFormulario = () => {
     document.getElementById('cidade').value = '';
     document.getElementById('estado').value = '';
   }
+
+  //verificado se cep é valido
+  const eNumero = (numero) => /^[0-9]+$/.test(numero); //
+  const cepValido = (cep) => cep.lengh == 8 && eNumero(cep); //
