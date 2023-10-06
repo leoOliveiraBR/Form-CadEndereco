@@ -11,13 +11,16 @@
 ![image info](img/capa.png)
    
 ## Descrição📝
-usei um modelo do bootstrap5 de uma página de formulario de cadastro.  
-quando colocamos um CEP ele preenche automaticamente as informações. 
-<img src="img/CadEndereço.gif" width="55%">
+Este repositório contém um projeto de formulário de cadastro de endereço desenvolvido com Bootstrap 5 O formulário é integrado com um serviço de consulta de CEP, o que permite o preenchimento automático das informações do endereço quando um CEP válido é inserido.
+
+
 
 ## Funcionalidades⚙️
-°página de cadastro de endereço.   
-°preencher automaticamente as informações.   
+1-quando digitamos o cep correto ele preenche automaticamente as informações
+<img src="img/CadEndereço.gif" width="55%"> 
+
+2-quando digitamos o CEP errado ou deixamos o campo vazio ele da o aviso de que o CEP está incorreto.
+<img src="img/2.gif" width="55%"> 
 
 ### Tecnologias Utilizadas🌐
 °HTML5    
