@@ -10,13 +10,19 @@
 # Projeto - Formulario de Endereço
 ![image info](img/capa.png)
    
-## Descrição 
-usei um modelo do bootstrap5 de uma página de formulario de cadastro de um endereço.
+## Descrição
+usei um modelo do bootstrap5 de uma página de formulario de cadastro.  
+quando colocamos um CEP ele preenche automaticamente.
+<img src="img/CadEndereço.gif" width="55%">
+
 ## Funcionalidades
-°página de cadastro de endereço de um site 
+°página de cadastro de endereço
+°preencher automaticamente
+
 ### Tecnologias Utilizadas
 °HTML5    
-°CCS3       
+°CCS3
+°JAVA-SCRIPT3       
 °BOOTSTRAP-5   
 ## Fontes Consultadas
 [Bootstrap](https://getbootstrap.com/)     
@@ -24,4 +30,4 @@ usei um modelo do bootstrap5 de uma página de formulario de cadastro de um ende
 [répositorio github](https://gist.github.com/lohhans/f8da0b147550df3f96914d3797e9fb89)    
 
 ## Autores
-Leonardo de Oliveira[https://github.com/leoOliveiraBR]
+[Leonardo de Oliveira](https://github.com/leoOliveiraBR)
